@@ -1,0 +1,18 @@
+PODS:
+  - IBAnimatable (5.0.0)
+  - lottie-ios (2.5.0)
+  - RAMAnimatedTabBarController (3.0.4)
+
+DEPENDENCIES:
+  - IBAnimatable
+  - lottie-ios
+  - RAMAnimatedTabBarController
+
+SPEC CHECKSUMS:
+  IBAnimatable: aa2286a9cf8fb4ae2e1be85c5287ae56143b024f
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  RAMAnimatedTabBarController: f4df798eb3f374b80448908d3a18586421efb8f6
+
+PODFILE CHECKSUM: 287a2f180bd203c710b09ad4a75cae098ca4ba19
+
+COCOAPODS: 1.4.0
